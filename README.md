@@ -30,5 +30,6 @@ Amazon Login Bulk Checker is a GUI tool built in Python that allows you to check
 ![image](https://github.com/user-attachments/assets/c1ce8271-1ab3-4094-9328-6736a492094e)
 ![image](https://github.com/user-attachments/assets/dab33783-94f0-4692-8fef-c81eedc685d6)
 
+TG: @Lolipa124
 
 
