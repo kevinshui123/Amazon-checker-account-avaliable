@@ -1,14 +1,12 @@
-
-![image](https://github.com/user-attachments/assets/62506dbc-a509-4990-9dca-8efb6d5559ce)
-![image](https://github.com/user-attachments/assets/048f0678-b0f2-4752-9df4-ad27b660e30e)
-
-
 # Amazon Bulk Login Checker (All in One)
+![image](https://github.com/user-attachments/assets/62506dbc-a509-4990-9dca-8efb6d5559ce)
 
 Below is a consolidated Markdown document containing:
 1. A **README** section describing the tool (in English).
 2. The **playwright_checker.py** code (translated into English).
 3. The **ui.py** code (translated into English).
+
+![image](https://github.com/user-attachments/assets/048f0678-b0f2-4752-9df4-ad27b660e30e)
 
 ---
 
