@@ -31,3 +31,25 @@ Amazon Login Bulk Checker is a GUI tool built in Python that allows you to check
    ```bash
    git clone https://github.com/yourusername/amazon-checker-account-available.git
    cd amazon-checker-account-available
+   
+#### Create a virtual environment (optional)
+   python -m venv venv
+   # Windows:
+   venv\Scripts\activate
+   # macOS/Linux:
+   source venv/bin/activate
+
+#### Install dependencies
+   pip install -r requirements.txt
+   
+   If you don’t have a requirements.txt, you might need the following at a minimum:
+   playwright
+   pillow
+   
+#### Install Playwright browsers:
+   playwright install
+   
+#### Usage
+   python ui.py
+
+
